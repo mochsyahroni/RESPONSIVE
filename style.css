@@ -1,0 +1,24 @@
+.box{
+  height: 400px;
+  background: rgb(12, 24, 93);
+}
+
+.text{
+  text-align: center;
+  padding-top: 150px;
+  color: aliceblue;
+}
+
+.text2{
+  margin-top: 50px;
+}
+
+.box1{
+  height: 125px;
+  border-radius: 15px;
+  background: blueviolet;
+}
+
+.font{
+  text-align: center;
+}
