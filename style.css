@@ -22,3 +22,19 @@
 .font{
   text-align: center;
 }
+
+.text3{
+  margin-top: 70px;
+}
+
+.button{
+  background: blueviolet;
+  color: black;
+  border-radius: 15px;
+  padding: 0px 30px 0px 30px;
+  margin-top: 20px;
+}
+
+.box2{
+  height: 50px;
+}
