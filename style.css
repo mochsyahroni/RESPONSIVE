@@ -13,10 +13,52 @@
   margin-top: 50px;
 }
 
+.box6{
+  height: 125px;
+  border-radius: 15px;
+  background-image: url(img/argopuro.jpg);
+}
+
+.box7{
+  height: 125px;
+  border-radius: 15px;
+  background-image: url(img/bromo.jpg);
+}
+
+.box8{
+  height: 125px;
+  border-radius: 15px;
+  background-image: url(img/sumbing.jpg);
+}
+
+.box9{
+  height: 125px;
+  border-radius: 15px;
+  background-image: url(img/semeru.jpg);
+}
+
 .box1{
   height: 125px;
   border-radius: 15px;
-  background: blueviolet;
+  background-image: url(img/jalan.jpeg);
+}
+
+.box3{
+  height: 125px;
+  border-radius: 15px;
+  background-image: url(img/kopi.jpg);
+}
+
+.box4{
+  height: 125px;
+  border-radius: 15px;
+  background-image: url(img/awan.png);
+}
+
+.box5{
+  height: 125px;
+  border-radius: 15px;
+  background-image: url(img/jalan\ kereta.jpg);
 }
 
 .font{
