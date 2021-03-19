@@ -1,83 +1,20 @@
+.posisi{
+    margin-left: 740px;   
+}
 .box{
-  height: 400px;
-  background: rgb(12, 24, 93);
+    height: 200px;
 }
-
-.text{
-  text-align: center;
-  padding-top: 150px;
-  color: aliceblue;
+.text1{
+    padding-top: 40px;
+    font-family: 'Courier New', Courier, monospace;
 }
-
-.text2{
-  margin-top: 50px;
-}
-
-.box6{
-  height: 125px;
-  border-radius: 15px;
-  background-image: url(img/argopuro.jpg);
-}
-
-.box7{
-  height: 125px;
-  border-radius: 15px;
-  background-image: url(img/bromo.jpg);
-}
-
-.box8{
-  height: 125px;
-  border-radius: 15px;
-  background-image: url(img/sumbing.jpg);
-}
-
-.box9{
-  height: 125px;
-  border-radius: 15px;
-  background-image: url(img/semeru.jpg);
-}
-
 .box1{
-  height: 125px;
-  border-radius: 15px;
-  background-image: url(img/jalan.jpeg);
+    justify-content: left;
+    height: 350px;
 }
-
-.box3{
-  height: 125px;
-  border-radius: 15px;
-  background-image: url(img/kopi.jpg);
-}
-
-.box4{
-  height: 125px;
-  border-radius: 15px;
-  background-image: url(img/awan.png);
-}
-
-.box5{
-  height: 125px;
-  border-radius: 15px;
-  background-image: url(img/jalan\ kereta.jpg);
-}
-
-.font{
-  text-align: center;
-}
-
-.text3{
-  margin-top: 70px;
-}
-
-.button{
-  background: blueviolet;
-  color: black;
-  border-radius: 15px;
-  padding: 0px 30px 0px 30px;
-  margin-top: 20px;
-}
-
 .box2{
-  height: 50px;
+    height: 90px;
 }
-/*  */
+.teks2{
+   opacity: 32%;
+}
